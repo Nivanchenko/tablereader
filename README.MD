@@ -1,4 +1,4 @@
-# oscript-tablereader
+# tablereader
 
 Данная библиотека - Реализация объекта для чтения xlsx книг.
 
@@ -9,19 +9,19 @@
 ## Установка
 
 ```cmd
-opm install -f .\oscript-tablereader-<<текущая версия>>.ospx
+opm install -f .\tablereader-<<текущая версия>>.ospx
 ```
 
 Подключение:
 
 ```bsl
-#Использовать oscript-tablereader
+#Использовать tablereader
 ```
 
 ## Описание и примеры
 
 ```bsl
-#Использовать oscript-tablereader
+#Использовать tablereader
 
 ПутьКТаблице = ОбъединитьПути(ТекущийСценарий().Каталог, "Книга1.xlsx");
 
