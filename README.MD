@@ -9,7 +9,7 @@
 ## Установка
 
 ```cmd
-opm install -f .\tablereader-<<текущая версия>>.ospx
+opm install tablereader
 ```
 
 Подключение:
