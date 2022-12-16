@@ -1,0 +1,4 @@
+.vscode
+*.ospx
+*.json
+.DS_Store
